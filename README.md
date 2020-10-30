@@ -5,7 +5,7 @@ The purpose of the analysis is to create visualizations of rideshare data for Py
 
 ## Results
 
-Ride data by city type shows that there is a big difference between city types. Total Rides in Urban cities by themselves make up about 68.4 percent of all rides. Urban cities have 1625 rides, while Suburban cities have 625 Total Rides and Rural cities have 125 Total Rides. This can be seen in the pie cart below.
+Ride data by city type shows that there is a big difference between city types. Total Rides in Urban cities by themselves make up 68.4 percent of all rides. Urban cities have 1625 Total Rides, while Suburban cities have 625 Total Rides and Rural cities have 125 Total Rides. This can be seen in the pie cart below.
 
 #### % Total Rides by City Type
 
@@ -22,4 +22,4 @@ In the Total Fare by City Type graph, it can be seen that Urban cities generate 
 ![Pyber Fare Summary](./analysis/PyBer_fare_summary.png)
 
 ## Summary
-The three business recommendations for the CEO are to maximize Fare from Urban cities, better understand peaks in revenue, and decrease the Rural fare. Urban cities generate the most revenue amongst the three city types. More money should be invested to improve rides for Urban cities so an already high yielding city type generates even more revenue. Also, a deep analysis should be conducted to find out why there was a peak in Fares for all three city type for the end of February. Understanding why these peaks happen can then be leveraged by the CEO to increase overall revenue coming from all three city types. Finally, the CEO should experiment with Fare cost in Rural cities. Currently, Rural cities have the lowest Total Fares amongst the three city types and have the highest Average Fare per Ride. By lowering Fare cost Total Rides and Total Fares may increase for Rural cities. 
+The three business recommendations for the CEO are to maximize Fare from Urban cities, better understand peaks in the Pyber Fare Summary graph, and decrease the Rural fare. Urban cities generate the most revenue amongst the three city types. More money should be invested to improve rides for Urban cities so an already high yielding city type generates even more revenue. Also, a deep analysis should be conducted to find out why there were peaks in Fares for all three city type for the end of February. Understanding why these peaks happen can then be leveraged by the CEO to increase overall revenue coming from all three city types. Finally, the CEO should experiment with Fare cost in Rural cities. Currently, Rural cities have the lowest Total Fares amongst the three city types and have the highest Average Fare per Ride. By lowering Fare cost Total Rides and Total Fares may increase for Rural cities. 
