@@ -1,11 +1,11 @@
 # PyBer_Analysis
 
 ## Purpose of the analysis
-The purpose of the analysis is to create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. Looking at rows and columns is not the best way to outline trends and pinpoint growth opportunities. In this analysis, visualizations play a big role because through data visualization the audience absorbs information quickly and facilitates pattern detection.
+The purpose of the analysis is to create visualizations of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. Visualizations play a big role because through data visualization the audience absorbs information quickly and facilitates pattern detection. Looking at rows and columns is not the best way to outline trends and pinpoint growth opportunities. Visualizing the data makes it easier to outline trends and pinpoint growth opportunities.
 
 ## Results
 
-Ride data by city type shows that there is a big difference between city types. Total Rides in Urban cities by themselves make up about 68.4 percent of all rides. Urban cities have 1627 rides, while Suburban cities have 625 Total Rides and Rural cities have 125 rides. This can be seen in the pie cart below.
+Ride data by city type shows that there is a big difference between city types. Total Rides in Urban cities by themselves make up about 68.4 percent of all rides. Urban cities have 1625 rides, while Suburban cities have 625 Total Rides and Rural cities have 125 Total Rides. This can be seen in the pie cart below.
 
 #### % Total Rides by City Type
 
@@ -16,7 +16,7 @@ Also, Total Fares from Urban cities are almost twice as much as Total Fares of R
 #### Ride-Sharing Summary By City Type
 ![Ride Sharing by Type](./analysis/Ride_Sharing_By_Type.png)
 
-In the Total Fare by City Type graph, it can be seen that Urban cities generate more money through out the year compared to Suburban cities and Rural cities. Also, the lines for city types depicting revenue through January 2019 - April 2019 never intersect with each other. This means that if PyBer wants to introduce a new Urban city it is very likely the new Urban city will generate similar Fare to other Urban cities because Urban Fares are consistent and high. Finally, there is a peak in Fare at the end of February and the beginning of March for all three city types.
+In the Total Fare by City Type graph, it can be seen that Urban cities generate more money throughout the year compared to Suburban cities and Rural cities. Also, the lines for city types depicting revenue through January 2019 - April 2019 never intersect with each other. This means that if PyBer wants to introduce a new Urban city it is very likely the new Urban city will generate similar Fare to other Urban cities because Urban Fares are consistent and high. Finally, there is a peak in Fare at the end of February and the beginning of March for all three city types.
 
 #### PyBer Fare Summary
 ![Pyber Fare Summary](./analysis/PyBer_fare_summary.png)
