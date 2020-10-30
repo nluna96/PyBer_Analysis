@@ -16,7 +16,7 @@ Also, Total Fares from Urban cities are almost twice as much as Total Fares of R
 #### Ride-Sharing Summary by City Type
 ![Ride Sharing by Type](./analysis/Ride_Sharing_By_Type.png)
 
-In the Total Fare by City Type graph, it can be seen that Urban cities generate more money throughout the year compared to Suburban cities and Rural cities. Also, the lines for city types depicting revenue through January 2019 - April 2019 never intersect with each other. This means that if PyBer wants to introduce a new Urban city it is very likely the new Urban city will generate similar Fare to other Urban cities because Urban Fares are consistent and high. Finally, there is a peak in Fares at the end of February for all three city types.
+In the Pyber Fare Summary graph, it can be seen that Urban cities generate more money throughout the year compared to Suburban cities and Rural cities. Also, the lines for city types depicting revenue through January 2019 - April 2019 never intersect with each other. This means that if PyBer wants to introduce a new Urban city it is very likely the new Urban city will generate similar Fare to other Urban cities because Urban Fares are consistent and high. Finally, there is a peak in Fares at the end of February for all three city types.
 
 #### PyBer Fare Summary
 ![Pyber Fare Summary](./analysis/PyBer_fare_summary.png)
